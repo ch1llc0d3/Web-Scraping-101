@@ -42,5 +42,12 @@ We collected company URLs from a website listing, extracted company names and
 email addresses from each URL, and saved the data to a CSV file. This process 
 can be applied to various web scraping tasks for data collection and analysis.
 
-Please let me know if you need further clarification on any step or 
-if you have any questions!
+
+File Structure:
+
+Create a project folder named web_scraping_tutorial.
+Inside this folder, create the following files:
+collect_urls.py: Python script to collect company URLs.
+extract_data.py: Python script to extract company names and emails.
+requirements.txt: File containing the required Python packages.
+README.md: Markdown file containing instructions and explanations.
